@@ -8802,6 +8802,11 @@ psl@^1.1.28:
   resolved "https://registry.yarnpkg.com/psl/-/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
   integrity sha512-RIdOzyoavK+hA18OGGWDqUTsCLhtA7IcZ/6NCs4fFJaHBDab+pDDmDIByWFRQJq2Cd7r1OoQxBGKOaztq+hjIQ==
 
+pts@^0.10.5:
+  version "0.10.5"
+  resolved "https://registry.yarnpkg.com/pts/-/pts-0.10.5.tgz#210d623c890c13b022050001a8543e12fe83bd5b"
+  integrity sha512-Dx8J3cQc2pXLpAb9cHDRCdxJO9c1YEPdxYTzbV16NyhxDP/CXl7zv2h/MgfIYaTXN4nPmtlagTD9b1YjzlLOBQ==
+
 public-encrypt@^4.0.0:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/public-encrypt/-/public-encrypt-4.0.3.tgz#4fcc9d77a07e48ba7527e7cbe0de33d0701331e0"
@@ -9004,6 +9009,11 @@ react-is@^17.0.1:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
+
+react-pts-canvas@^0.2.9:
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/react-pts-canvas/-/react-pts-canvas-0.2.9.tgz#2bd06a85e59ac12204e2aff798f37f98f0e2cabb"
+  integrity sha512-CdmKOCwO+Mw1Tb+3lxWIFuFVvpEvsW9YhxILzg02xOZo7lt+QsDQ2NQW8NVGa8awD970HdtUVEt+s9H7jyGbwQ==
 
 react-refresh@^0.8.3:
   version "0.8.3"
